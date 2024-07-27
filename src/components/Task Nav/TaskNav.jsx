@@ -4,7 +4,7 @@ import "./TaskNav.css";
 const TaskNav = () => {
     return (
         <section className="task-nav-container">
-            <h2>This is my Task Navigation Component</h2>
+            <h2>Task Navigation Component</h2>
         </section>
     )
 }
